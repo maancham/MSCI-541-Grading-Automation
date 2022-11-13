@@ -1,4 +1,4 @@
-# MSCI-541-Grading-Automation
+# Search-Engines-Grading-Automation
 Scripts for automated evaluation/grading of UWaterloo Search Engines course
 
 ----
